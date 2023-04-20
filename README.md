@@ -1,1 +1,1 @@
-Learning three.js
+## Learning [Three.js](https://threejs-journey.com/)
